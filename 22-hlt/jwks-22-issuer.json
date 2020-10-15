@@ -1,0 +1,20 @@
+{
+	"keys": [
+		{
+			"kty": "EC",
+			"kid": "i1",
+			"crv": "P-256",
+			"x": "Zk12rQYW3mr286VJp_DLBLdcYrRMOJpJtrlPqHdoYQ4",
+			"y": "83fbN-PrUXHm-YbjRdf10pUxBT2onksoPh4uu6rflW8",
+			"pid": "22"
+		},
+		{
+			"kty": "EC",
+			"kid": "mts7-20190923",
+			"crv": "P-256",
+			"x": "15xvtrO_3uAqK9fTD_rizKNNTfKr8amaDwd3xxEUoBE",
+			"y": "khVOdad6uY0uW69J66u6WcBj2H8eZLwOEcYPwWhi6Ds",
+			"pid": "22"
+		}
+	]
+}
