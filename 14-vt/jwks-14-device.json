@@ -1,0 +1,11 @@
+{
+	"keys": [
+		{
+			"kty": "oct",
+			"kid": "x27b4",
+			"k": "7MwjSCHNY1sbkxFq9zIzJg",
+			"kdf": "mts2",
+			"pid": "14"
+		}
+	]
+}
