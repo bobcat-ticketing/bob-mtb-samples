@@ -6,5 +6,6 @@ N.B. All private keys published are test keys and will _not_ work for production
 
 ## Issuers
 
+- 12: Silverrail
 - 14: Västtrafik
 - 22: Hallandstrafiken
