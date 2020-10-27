@@ -7,6 +7,14 @@
 			"x": "BPg21j_nEZ_EXYByfvzM0QlPxQEGi7QMBUuS-oWBplk",
 			"y": "VcdsuQZVTFTvtAVE0L_-_7BWdMYyOiMsTXJYViTUZK4",
 			"pid": "10"
+		},
+		{
+			"kty": "EC",
+			"kid": "LfpBgwhacV",
+			"crv": "P-256",
+			"x": "ex4hrmUw-u4idXv31xUPtNy94tymIqscKLSQ9VE_WGI",
+			"y": "EdA3SllmqNsXOCLfLX00nTrX_4b0BY-G11UfjObMN9I",
+			"pid": "10"
 		}
 	]
 }
