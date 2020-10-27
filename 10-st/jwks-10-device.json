@@ -1,0 +1,10 @@
+{
+	"keys": [
+		{
+			"kid": "LfprJM4081",
+			"kty": "oct",
+			"k": "G8Rt4qSoha5KL6R1jMtkUA",
+			"pid": "10"
+		}
+	]
+}
