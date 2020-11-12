@@ -1,0 +1,12 @@
+{
+	"keys": [
+		{
+			"kty": "EC",
+			"kid": "27:20201024_bob_mtb",
+			"crv": "P-256",
+			"x": "pa4b_myjPwR-oUqOJbiCgE2A6BxXUHl3MrIhKwk4ibk",
+			"y": "LaJwpHkJHzHS2bekGQxLuYs4to0ePVRMBvwnQ3x8p_s",
+			"pid": "27"
+		}
+	]
+}
