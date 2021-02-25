@@ -1,0 +1,13 @@
+{
+	"keys": [
+		{
+			"pid": "11",
+			"kid": "11SMTB2021010709P30D",
+			"kty": "EC",
+			"crv": "P-256",
+			"alg": "ES256",
+			"x": "WVDN04uyd5jOJrkhDVMaprxgpQ_pW3D3ct2suKtYXhU",
+			"y": "NcfxL20m1jdnF-zq7926fD9HLtSLCwrHVAUkDUPki2s"
+		}
+	]
+}
