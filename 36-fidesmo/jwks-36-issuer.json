@@ -1,0 +1,20 @@
+{
+	"keys": [
+		{
+			"crv": "P-256",
+			"kid": "h1",
+			"kty": "EC",
+			"pid": "36",
+			"x": "Mm2N1R7XLOkMKqeQMHnKEU1VPCYnSTBJ25SUt4kVrxE",
+			"y": "PsStfKxWtUWwi8mLNU05RatgK5kvDMYCp-bIjeHWKz0"
+		},
+		{
+			"crv": "P-256",
+			"kid": "h2",
+			"kty": "EC",
+			"pid": "36",
+			"x": "Hn5eYqarQNcvIO_S9DZ3bSEjY1ULwAUEMsfjJosiA4k",
+			"y": "5X-h0AHsqo6QQUGxfjzvVlHlqAW1tYfK9NkQmNFSj8U"
+		}
+	]
+}
